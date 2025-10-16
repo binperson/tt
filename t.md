@@ -1,39 +1,8 @@
+## 待办事项列表
 
-```echarts
-{
-  "height": 260,
-  "option": {
-    "xAxis": {
-      "type": "category",
-      "boundaryGap": false,
-      "data": [
-        "Mon",
-        "Tue",
-        "Wed",
-        "Thu",
-        "Fri",
-        "Sat",
-        "Sun"
-      ]
-    },
-    "yAxis": {
-      "type": "value"
-    },
-    "series": [
-      {
-        "data": [
-          820,
-          932,
-          901,
-          934,
-          1290,
-          1330,
-          1320
-        ],
-        "type": "line",
-        "areaStyle": {}
-      }
-    ]
-  }
-}
+```todolist
+- [x] 完成 todolist 组件开发
+- [ ] 测试 todolist 组件功能
+- [ ] 优化 todolist 组件样式
+- [x] 添加 todolist 到配置中
 ```
