@@ -1,4 +1,6 @@
-test
+```html
+<echarts value="%7B%22option%22%3A%7B...%7D%2C%22height%22%3A280%7D"></echarts>
+```
 ```echarts
 {
   "height": 260,
